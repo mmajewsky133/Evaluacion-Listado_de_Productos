@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Listado de Productos</string>
+    <string name="id">ID</string>
+    <string name="nombre_del_producto">Nombre del Producto</string>
+    <string name="agregar">Agregar</string>
+    <string name="precio">Precio</string>
+    <string name="lista_de_productos">Lista de Productos</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="Title_Elim_Prod">Eliminar Producto</string>
+    <string name="Message_Elim_Prod">¿Quiere eliminar este Producto?</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Si">Si</string>
+    <string name="ok">Ok</string>
+    <string name="error_edit_body">Debe de seleccionar un producto primero antes de poder actualizar sus detalles</string>
+    <string name="error_edit_title">Producto sin seleccionar</string>
+</resources>
